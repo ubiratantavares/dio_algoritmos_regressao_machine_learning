@@ -1,2 +1,6 @@
-# dio_algoritmos_regressao_machine_learning
-# dio_algoritmos_regressao_machine_learning
+# DIO - Algoritmos de Regressão para Machine Learning
+
+## Introdução para modelos de regressão
+
+## Funcionamento dos algoritmos de regressão
+
